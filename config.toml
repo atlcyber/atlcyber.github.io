@@ -1,0 +1,26 @@
+baseurl = "http://atlcyber.com"
+title = "ATLCyber Hunting Lodge"
+theme = "nix"
+languageCode = "en-us"
+#disqusShortname = "your_disqus_shortname"
+
+[menu]
+  [[menu.header]]
+    name = "post"
+    weight = 0
+    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "atlcyber"
+  TwitterID = "@atlcyber"
+  HeaderUsername = "nomad"
+  HeaderHostname = "skynet"
+  Email = "headmaster@atlcyber.com"
+  About = "ATLCyber Hunting Lodge HQ"
+  ProfilePicture = "img/dark_logo.png"
+  SlackURL = "your_slack_invite_url"
+

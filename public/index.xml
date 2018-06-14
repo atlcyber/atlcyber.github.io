@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATLCyber Hunting Lodge</title>
+    <link>http://atlcyber.com/</link>
+    <description>Recent content on ATLCyber Hunting Lodge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jun 2018 15:42:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://atlcyber.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://atlcyber.com/about/</link>
+      <pubDate>Thu, 14 Jun 2018 15:42:27 -0400</pubDate>
+      
+      <guid>http://atlcyber.com/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+  </channel>
+</rss>
