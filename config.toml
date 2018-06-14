@@ -5,10 +5,10 @@ languageCode = "en-us"
 #disqusShortname = "your_disqus_shortname"
 
 [menu]
-  [[menu.header]]
-    name = "post"
-    weight = 0
-    url = "/post"
+#  [[menu.header]]
+#    name = "post"
+#    weight = 0
+#    url = "/post"
   [[menu.header]]
     name = "about"
     weight = 1
