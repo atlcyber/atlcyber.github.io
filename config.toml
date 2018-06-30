@@ -5,10 +5,10 @@ languageCode = "en-us"
 #disqusShortname = "your_disqus_shortname"
 
 [menu]
-#  [[menu.header]]
-#    name = "post"
-#    weight = 0
-#    url = "/post"
+  [[menu.header]]
+    name = "join"
+    weight = 0 
+    url = "https://communityinviter.com/apps/atlcyberlodge/join-us-in-the-atlcyber-lodge"
   [[menu.header]]
     name = "about"
     weight = 1
@@ -17,10 +17,10 @@ languageCode = "en-us"
 [params]
   GithubID = "atlcyber"
   TwitterID = "@atlcyber"
-  HeaderUsername = "nomad"
-  HeaderHostname = "skynet"
+  HeaderUsername = "root"
+  HeaderHostname = "atlcyber"
   Email = "headmaster@atlcyber.com"
-  About = "ATLCyber Hunting Lodge HQ"
+  About = "A cybersecurity meetup group, online and in-person, for Cybersecurity professionals in the Metro-Atlanta area!"
   ProfilePicture = "img/dark_logo.png"
-  SlackURL = "your_slack_invite_url"
+  SlackURL = "https://communityinviter.com/apps/atlcyberlodge/join-us-in-the-atlcyber-lodge"
 

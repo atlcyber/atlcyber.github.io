@@ -4,27 +4,8 @@ date: 2018-06-14T15:42:27-04:00
 menu: "main"
 ---
 
-Hugo is a static site engine written in Go.
+Do you ever feel alone and isolated in your cubicle; fighting the Cyberwar unnoticed and underappreciated?
 
-It makes use of a variety of open source projects including:
+Do you ever long for a companion to trade stories with who understands what it's like in the "trenches" of the Enterprise Information Security Landscape?
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
-
+Don't despair, for you are not alone! Come join your fellow Cybersecurity professionals from Atlanta and the surrounding areas for a cold beer, a few war stories, and a wholesome helping of camraderie!
