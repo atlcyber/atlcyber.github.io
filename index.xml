@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ATLCyber Hunting Lodge</title>
+    <link>http://atlcyber.com/</link>
+    <description>Recent content on ATLCyber Hunting Lodge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jun 2018 15:42:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://atlcyber.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://atlcyber.com/about/</link>
+      <pubDate>Thu, 14 Jun 2018 15:42:27 -0400</pubDate>
+      
+      <guid>http://atlcyber.com/about/</guid>
+      <description>Do you ever feel alone and isolated in your cubicle; fighting the Cyberwar unnoticed and underappreciated?
+Do you ever long for a companion to trade stories with who understands what it&amp;rsquo;s like in the &amp;ldquo;trenches&amp;rdquo; of the Enterprise Information Security Landscape?
+Don&amp;rsquo;t despair, for you are not alone! Come join your fellow Cybersecurity professionals from Atlanta and the surrounding areas for a cold beer, a few war stories, and a wholesome helping of camraderie!</description>
+    </item>
+    
+  </channel>
+</rss>
