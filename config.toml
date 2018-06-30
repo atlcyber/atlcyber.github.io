@@ -23,4 +23,4 @@ languageCode = "en-us"
   About = "A cybersecurity meetup group, online and in-person, for Cybersecurity professionals in the Metro-Atlanta area!"
   ProfilePicture = "img/dark_logo.png"
   SlackURL = "https://communityinviter.com/apps/atlcyberlodge/join-us-in-the-atlcyber-lodge"
-
+  GoogleAnalytics= "UA-121647137-1"
